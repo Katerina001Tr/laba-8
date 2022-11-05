@@ -14,4 +14,13 @@ while True:
         print("Ошибка ввода. Введите число от 1 до N")
         logging.error("ValueError.")
         continue
+        numbers = []
+    while len(numbers) != n:
+        number = random.randint(1,n)
+        if number not in numbers:
+            print("Вам выпал бочонок под номером: ")
+            numbers.append(number)
+            print(number)
+            logging.info(f"Program printed {number}")
+            input('Для того, чтобы вытянуть бочонок нажмите "ENTER"')
 
