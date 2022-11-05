@@ -9,4 +9,9 @@ while True:
     except ValueError:
         print("Ошибка ввода. Введите число от 1 до N")
         logging.error("ValueError.")
+        continue
+    if n <= 0:
+        print("Ошибка ввода. Введите число от 1 до N")
+        logging.error("ValueError.")
+        continue
 
