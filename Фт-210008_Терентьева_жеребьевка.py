@@ -6,4 +6,7 @@ while True:
     try:
         n = int(input("Сколько бочонков необходимо вытянуть из мешка?"))
         logging.info(f"Users nuber is {n}")
+    except ValueError:
+        print("Ошибка ввода. Введите число от 1 до N")
+        logging.error("ValueError.")
 
