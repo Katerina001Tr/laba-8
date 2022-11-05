@@ -1,0 +1,65 @@
+INFO:root:Programm started
+INFO:root:Users nuber is -3
+ERROR:root:ValueError.
+INFO:root:Programm started
+INFO:root:Users nuber is 0
+ERROR:root:ValueError.
+INFO:root:Programm started
+ERROR:root:ValueError.
+INFO:root:Programm started
+INFO:root:Users nuber is 7
+INFO:root:Program printed 2
+INFO:root:Program printed 4
+INFO:root:Program printed 7
+INFO:root:Program printed 6
+INFO:root:Program printed 5
+INFO:root:Program printed 3
+INFO:root:Program printed 1
+INFO:root:All nubers is: [2, 4, 7, 6, 5, 3, 1]
+INFO:root:Programms end
+INFO:root:Programm started
+INFO:root:Users nuber is 13
+INFO:root:Program printed 6
+INFO:root:Program printed 11
+INFO:root:Program printed 9
+INFO:root:Program printed 8
+INFO:root:Program printed 5
+INFO:root:Program printed 13
+INFO:root:Program printed 1
+INFO:root:Program printed 7
+INFO:root:Program printed 10
+INFO:root:Program printed 12
+INFO:root:Program printed 2
+INFO:root:Program printed 3
+INFO:root:Program printed 4
+INFO:root:All nubers is: [6, 11, 9, 8, 5, 13, 1, 7, 10, 12, 2, 3, 4]
+INFO:root:Programms end
+INFO:root:Programm started
+INFO:root:Users nuber is 25
+INFO:root:Program printed 15
+INFO:root:Program printed 21
+INFO:root:Program printed 9
+INFO:root:Program printed 16
+INFO:root:Program printed 25
+INFO:root:Program printed 11
+INFO:root:Program printed 6
+INFO:root:Program printed 12
+INFO:root:Program printed 20
+INFO:root:Program printed 4
+INFO:root:Program printed 23
+INFO:root:Program printed 14
+INFO:root:Program printed 1
+INFO:root:Program printed 10
+INFO:root:Program printed 19
+INFO:root:Program printed 13
+INFO:root:Program printed 3
+INFO:root:Program printed 22
+INFO:root:Program printed 17
+INFO:root:Program printed 2
+INFO:root:Program printed 24
+INFO:root:Program printed 18
+INFO:root:Program printed 5
+INFO:root:Program printed 7
+INFO:root:Program printed 8
+INFO:root:All nubers is: [15, 21, 9, 16, 25, 11, 6, 12, 20, 4, 23, 14, 1, 10, 19, 13, 3, 22, 17, 2, 24, 18, 5, 7, 8]
+INFO:root:Programms end
