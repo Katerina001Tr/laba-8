@@ -23,4 +23,7 @@ while True:
             print(number)
             logging.info(f"Program printed {number}")
             input('Для того, чтобы вытянуть бочонок нажмите "ENTER"')
+             print("Все выпавшие бочонки за игру: ", numbers)
+    logging.info(f"All nubers is: {numbers}")
+    logging.info("Programms end")
 
